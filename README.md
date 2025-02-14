@@ -1,7 +1,10 @@
 # Predicting-Stock-with-AI
 Ini adalah project dimana kita memprediksi harga saham ke depan dan diimplementasikan menggunakan bot discord
 
-Nama : Rein Cornelius, Jose Arsenio Lendy, Marvelle Gunawan
+Nama : 
+  1. Rein Cornelius 22-1604
+  2. Jose Arsenio Lendy 22-1427
+  3. Marvelle Gunawan 22-1504
 Kelas : 12 IPA 1
 
 Cara menggunakannya:
